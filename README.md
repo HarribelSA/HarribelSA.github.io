@@ -1,14 +1,13 @@
 # Rana AlRashidi — Portfolio
 
-[![Portfolio Preview](<img width="1584" height="396" alt="rana-linkedin-banner" src="https://github.com/user-attachments/assets/e404aadc-63b4-44f8-820b-aa44ed03eb56" />
-)](https://harribelsa.github.io/)
+[![Portfolio Preview](https://github.com/user-attachments/assets/e404aadc-63b4-44f8-820b-aa44ed03eb56)](https://harribelsa.github.io/)
 
 [![Live Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0A66C2?style=for-the-badge)](https://harribelsa.github.io/)
 
-Welcome to my portfolio repository. Explore my projects and work across **Cybersecurity**, **Game & XR Development**, and **Drones**.
+Welcome to my portfolio repository. Explore my projects and work across **Cybersecurity**, **Game & XR Development**, and **Drones**[cite: 1].
 
-##  Visit the Live Website
- **[https://harribelsa.github.io/](https://harribelsa.github.io/)**
+## Visit the Live Website
+**[https://harribelsa.github.io/](https://harribelsa.github.io/)**[cite: 1]
 
 ---
 
@@ -17,4 +16,3 @@ Welcome to my portfolio repository. Explore my projects and work across **Cybers
 - **CTF-Challenge-1** — Web-based Capture The Flag challenge built for training[cite: 1].
 - **DroneNajmDemo** — Drone simulation focused on traffic safety and incident response[cite: 1].
 - **Fire-Fighters-Multiplayer-VR** — Cooperative multiplayer VR training simulator[cite: 1].
-<img width="1584" height="396" alt="rana-linkedin-banner" src="https://github.com/user-attachments/assets/e404aadc-63b4-44f8-820b-aa44ed03eb56" />
